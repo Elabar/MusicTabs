@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "MusicTabs",
+    "slug": "MusicTabs",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "MusicTabs"
+}
