@@ -35,5 +35,27 @@ export const tabs = [
 `,
     key: "HFON",
   },
-  { title: "Big Fish", tabs: ``, key: "BF" },
+  {title: "Greensleeves", tabs: `
+6 1° 2° 3° 4° 3° 2°
+7 5 6 7 1°
+6 6 5 6 7 3 3
+6 1° 2° 3° 4° 3° 2°
+7 5 6 7 1°
+7 6 5 4 5 6 6
+5° 5° 4° 3° 2°
+7 5 6 7 1°
+6 6 5 6 7 3 3
+5° 5° 4° 3° 2°
+7 5 6 7 1°
+7 6 5 4 5 6
+
+
+6 1° 2° 3° 4° 3° 2°
+7 5 6 7 1°
+6 6 5 6 7 3 3
+6 1° 2° 3° 4° 3° 2°
+7 5 6 7 1°
+7 6 5 4 5 6 6
+`,
+  key: "GSLEVES", link: "https://www.youtube.com/watch?v=iMGLNJSBMjY"}
 ];
